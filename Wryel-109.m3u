@@ -58,7 +58,7 @@ http://103.205.133.50/hls/atnbangla.m3u8
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=""http://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x91288"" group-title=""JagoBD"",ATN Music
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
-#EXTINF:0,I
+#EXTINF:0,Channel I
 #EXTGRP:unsorted
 http://103.205.133.50/hls/ichannel.m3u8
 #EXTINF:0,Ekushey TV
