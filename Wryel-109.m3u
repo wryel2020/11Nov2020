@@ -67,8 +67,7 @@ http://103.205.133.50/hls/ekushey.m3u8
 #EXTINF:0,NTV
 #EXTGRP:unsorted
 http://103.205.133.50/hls/ntv.m3u8
-#EXTINF:0 tvg-logo=""http://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x91288"" group-title=""JagoBD"",NTV
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
+
 #EXTINF:0,RTV
 #EXTGRP:unsorted
 http://103.205.133.50/hls/rtv.m3u8
