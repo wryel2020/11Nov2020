@@ -76,7 +76,7 @@ http://103.205.133.50/hls/rtv.m3u8
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x91288" group-title="JagoBD",Banglavision
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
-#EXTINF:0 tvg-logo=""ext"" group-title=""Unix TV(Skyview)"",Channel 15
+#EXTINF:0 tvg-logo=""ext"" group-title=""Unix TV(Skyview)"",
 http://30.30.30.30/live/skyfeed1015/index.m3u8
 #EXTINF:0,My TV
 #EXTGRP:unsorted
@@ -144,8 +144,9 @@ http://103.205.133.50/hls/dhoommusic.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:unsorted
 http://103.205.133.50/hls/etvbangla.m3u8
-#EXTINF:0 tvg-logo=""ext"" group-title=""Unix TV(Skyview)"",Colors HD
-http://30.30.30.30/live/skyfeed1018/index.m3u8
+#EXTINF:0,Colors
+#EXTGRP:unsorted
+http://103.205.133.50/hls/chc.m3u8
 #EXTINF:0,Bangla Time
 #EXTGRP:unsorted
 http://103.205.133.50/hls/banglatime.m3u8
