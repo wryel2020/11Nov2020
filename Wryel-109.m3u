@@ -63,9 +63,9 @@ http://30.30.30.30/live/skyfeed1020/index.m3u8
 #EXTINF:0,BTV
 #EXTGRP:unsorted
 http://103.205.133.50/hls/btv.m3u8
-#EXTINF:0,BTV World
-#EXTGRP:unsorted
-http://103.205.133.50/hls/btvworld.m3u8
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="JagoBD",BTV World
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+
 #EXTINF:0 tvg-logo=""http://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x91288"" group-title=""JagoBD"",Sangsad TV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:0,ATN Bangla
