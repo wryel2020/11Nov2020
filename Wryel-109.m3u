@@ -25,9 +25,9 @@ http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS_d-hP3_s-6LytrD3RMdXY8z55icDuzzz3Ov14Kjha88Ee-FY&usqp=CAU" group-title="Indian",102.Zee Anmol Cinama
 https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
-#EXTINF:0,Sony Tv SD
-#EXTGRP:unsorted
-http://103.205.133.50/hls/chs.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 32
+http://30.30.30.30/live/skyfeed1032/index.m3u8
+
 #EXTINF:-1 ,Sony Movies
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",Sony Sab
@@ -163,7 +163,7 @@ http://103.205.133.50/hls/dhoommusic.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:unsorted
 http://103.205.133.50/hls/etvbangla.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Indian",134.Colors HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Indian",Colors HD
 http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
 
 #EXTINF:0,Bangla Time
@@ -325,8 +325,7 @@ http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",Colors
-http://103.205.133.50/hls/chc.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English",HBO [3]
