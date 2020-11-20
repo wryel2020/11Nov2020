@@ -30,7 +30,7 @@ https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
 http://103.205.133.50/hls/chs.m3u8
 #EXTINF:-1 ,Sony Movies
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",108.Sony Sab [1]
+#EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",Sony Sab
 http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 #EXTINF:0,Sony Ten 1
 #EXTGRP:unsorted
