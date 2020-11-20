@@ -163,9 +163,9 @@ http://103.205.133.50/hls/dhoommusic.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:unsorted
 http://103.205.133.50/hls/etvbangla.m3u8
-#EXTINF:0,Colors
-#EXTGRP:unsorted
-http://103.205.133.50/hls/chc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Indian",134.Colors HD
+http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
+
 #EXTINF:0,Bangla Time
 #EXTGRP:unsorted
 http://103.205.133.50/hls/banglatime.m3u8
