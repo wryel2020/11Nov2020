@@ -32,6 +32,8 @@ http://103.205.133.50/hls/chs.m3u8
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",Sony Sab
 http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Sony SAB HD
+http://30.30.30.30/live/skyfeed1029/index.m3u8
 #EXTINF:0,Sony Ten 1
 #EXTGRP:unsorted
 http://103.205.133.50/hls/ten1.m3u8
