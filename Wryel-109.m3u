@@ -112,9 +112,8 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 #EXTINF:0,Channel I
 #EXTGRP:unsorted
 http://103.205.133.50/hls/ichannel.m3u8
-#EXTINF:0,Ekushey TV
-#EXTGRP:unsorted
-http://103.205.133.50/hls/ekushey.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0,NTV
 #EXTGRP:unsorted
 http://103.205.133.50/hls/ntv.m3u8
