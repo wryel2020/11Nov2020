@@ -63,7 +63,7 @@ http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
 #EXTGRP:unsorted
 http://103.205.133.50/hls/chss2.m3u8
 #EXTINF:0 tvg-logo=""ext"" group-title=""Unix TV(Skyview)"",Star Sports Select 1 HD
-http://30.30.30.30/live/skyfeed1019/index.m3u8
+http://103.135.208.14:8082/25/index.m3u8?token=9bdc8e5cdfe02a80f7cc2f75cdc3759cbf6dbcc7-5ef4fdf2c2d7013a7ae2dfc0b2d913e9-1605984930-1605974130
 #EXTINF:0 tvg-logo=""ext"" group-title=""Unix TV(Skyview)"",Star Sports Select 2 HD
 http://30.30.30.30/live/skyfeed1020/index.m3u8
 
@@ -97,7 +97,7 @@ https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 ## BANGLADESHI ##
 #EXTINF:0,BTV
 #EXTGRP:unsorted
-http://103.205.133.50/hls/btv.m3u8
+http://103.135.208.14:8082/53/index.m3u8?token=f743bdca2f095ef252afc2fad18499ba2e5f810e-f98dc5ae92d9e7c039263a4e43fb697c-1605984912-1605974112
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="JagoBD",BTV World
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="JAGO BD IPTV",JAGO_BTV CTG [BD]
@@ -144,12 +144,12 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:0,Deepto TV
 #EXTGRP:unsorted
-http://103.205.133.50/hls/deeptotv.m3u8
+http://103.135.208.14:8082/8/index.m3u8?token=fa75f9c2f8aa2a7e0b5b9e9a932f9df97ae5230f-f16fe3c7345315cfa690664cae493663-1605984915-1605974115
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangladeshi",25.Bangla TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u
 #EXTINF:0,Nagorik TV
 #EXTGRP:unsorted
-http://103.205.133.50/hls/nagorik.m3u8
+http://103.135.208.14:8082/59/index.m3u8?token=88262517e930ebbd49705d31ab3731966fc38fe8-fdab9d58f9b4721bf9d244494312e719-1605984917-1605974117
 #EXTINF:0,ATN News
 #EXTGRP:unsorted
 http://103.146.55.212:8088/atnnews/tracks-v1a1/mono.m3u8
@@ -174,12 +174,18 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=""http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg"" group-title=""JagoBD"",Bijoy TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+#EXTINF:-1, GTV
+http://103.135.208.14:8082/1/index.m3u8?token=f0412ebe711e6acbb9c3dd3326c69e3f7196c385-08e57084a8368f0fceb3fea00dc09633-1605984909-1605974109
+#EXTINF:-1, Akash 8
+http://103.135.208.14:8082/32/index.m3u8?token=79f9843e8cfb04f63b91a2d6c0d515f60ed1e729-b1183c43e54849f460febcba62da8c8c-1605984922-1605974122
+
+
 #EXTINF:0,Wow Cinema
 #EXTGRP:unsorted
 http://103.205.133.50/hls/wowcinema.m3u8
 #EXTINF:0,Sangeet Bangla
 #EXTGRP:unsorted
-http://103.205.133.50/hls/sangeetbangla.m3u8
+http://103.135.208.14:8082/96/index.m3u8?token=16f6c9609269fd054af9b7b1a92d7f59d4374db3-e8a171cc909e86771e719a9374df0fbe-1605984934-1605974134
 #EXTINF:0,Ruposhi Bangla
 #EXTGRP:unsorted
 http://103.205.133.50/hls/ruposhibangla.m3u8
@@ -192,12 +198,16 @@ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:0,Dhoom Music
 #EXTGRP:unsorted
-http://103.205.133.50/hls/dhoommusic.m3u8
+http://103.135.208.14:8082/57/index.m3u8?token=b49b20a4f5cb4f3814ef3d738e35c12028ea0a31-dd05c29b163949005968ec8aa59fc29d-1605984935-1605974135
 #EXTINF:0,Colors Bangla
 #EXTGRP:unsorted
 http://103.205.133.50/hls/etvbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Indian",Colors HD
 http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
+
+#EXTINF:-1, nick
+#EXTGRP:kids
+http://103.135.208.14:8082/55/index.m3u8?token=0d812691c225a804867d7683f8a2ad5a7897d93c-abbcb5f5d9be6022afcb7da42a61489c-1605984937-1605974137
 
 #EXTINF:0,Bangla Time
 #EXTGRP:unsorted
@@ -207,12 +217,15 @@ http://103.205.133.50/hls/banglatime.m3u8
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 #EXTINF:0,& TV
 #EXTGRP:unsorted
-http://103.205.133.50/hls/andtv.m3u8
+http://103.135.208.14:8082/74/index.m3u8?token=3abea81e9db4ed877161490b0d0050b4c83cff23-f230e4df316a347f7f04fc4b7410ae41-1605984929-1605974129
 #EXTINF:0,& Pictures
 #EXTGRP:unsorted
-http://103.205.133.50/hls/andpicture.m3u8
+http://103.135.208.14:8082/100/index.m3u8?token=c719086428d082f7dd53aa26f3ea818abb6e588b-c71c14fd8525d708e5e8cbe9382ff741-1605984929-1605974129
 #EXTINF:0,& Private HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1, & Flix
+http://103.135.208.14:8082/78/index.m3u8?token=9a03a58b478af6e46bf70f8c6efb92dc41f09f0e-462b5b5501ffb5855b543c6f1c0add9b-1605984923-1605974123
+
 
 #EXTINF:0 tvg-logo=""https://bit.ly/343lGUG"" group-title=""Mx Player"",9x Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
@@ -224,6 +237,9 @@ https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in_480p/index.m3u8
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/aljazeera.stream/chunks.m3u8
 #EXTINF:-1 ,B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1, B4U Movies
+http://103.135.208.14:8082/45/index.m3u8?token=998aa6eaa3c1df52f2b5f4c98d27af8630a1e1a2-9ceb092388a4a3d404a45f93babed6c3-1605984925-1605974125
+
 
 #EXTINF:0 tvg-logo=""https://bit.ly/2EfPNNy"" group-title=""Mx Player"",BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
@@ -309,7 +325,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 #EXTINF:-1 ,Bangla Channel
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,BBC News
-http://51.52.156.22:8888/http/004
+http://103.135.208.14:8082/44/index.m3u8?token=1095927d2345525220edcdd81214ed4e06662f90-c8265ce3605d6045bc11bebd45f3b342-1605984924-1605974124
 #EXTINF:-1 ,Blue Ant Entertainment
 http://45.126.83.51/dr9445/h/h16/index.m3u8
 #EXTINF:-1 ,Bollywood Classic
@@ -396,7 +412,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwmzvoVGg5ZoC25muKab8tnWnZKHfTOq984A&usqp=CAU" group-title="Others",Cooking 4U
 https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="JagoBD",Desh TV
-http://30.30.30.30/live/skyfeed1015/index.m3u8
+http://103.135.208.14:8082/9/index.m3u8?token=59ad98ebaa41957b8443fa9c3c5671a7ea9ecba0-3eb8cdf694b3433b4cbd009ff2cecb82-1605984920-1605974120
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8EQUXgPvnJjPH95nBiBkRMi_nk5x4yomVLA&usqp=CAU" group-title="Indian",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="Indian",Bollywood Premier
