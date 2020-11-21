@@ -44,7 +44,7 @@ http://103.205.133.50/hls/ten3.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",Sony Aath
 http://103.205.133.50/hls/sony8.m3u8
 #EXTINF:0 ,Sony WAH
-http://103.138.172.178:8080/news24/tracks-v1a1/mono.m3u8
+https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",Sony Max HD
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 
