@@ -52,11 +52,9 @@ http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 
 #EXTINF:0,Star Max
 #EXTGRP:unsorted
-#EXTINF:0,Star Jalsha
+#EXTINF:0,Star Jalsha HD
 #EXTGRP:unsorted
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uvggul87tnf930n/SJ.jpg" group-title="BANGLA ENT.",Star Jalsha SD
-http://103.205.133.19/hls/chsj.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",Star Plus HD [1]
 http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
 #EXTINF:0,Star Sports 2
@@ -255,13 +253,13 @@ http://30.30.30.30/live/skyfeed1025/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:0 tvg-logo=""http://www.jagobd.com/wp-content/uploads/2019/12/titashsports1.jpg"" group-title=""JagoBD"",Titash Sports
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-#EXTINF:-1 ,162.Ten Sports
+#EXTINF:-1 ,Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
-#EXTINF:-1 group-title=""Pakistani"",222.Kay 2
+#EXTINF:-1 group-title=""Pakistani"",Kay 2
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
-#EXTINF:-1 group-title=""Pakistani"",223.Sahar Urdu
+#EXTINF:-1 group-title=""Pakistani"",Sahar Urdu
 https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=""Pakistani"",224.Subrang TV
+#EXTINF:-1 group-title=""Pakistani"",Subrang TV
 https://cdn20.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 ,Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
@@ -317,7 +315,7 @@ http://45.126.83.51/dr9445/h/h02/index.m3u8
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
 #EXTINF:-1 ,ARY Family
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",142.AXN
+#EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",AXN
 http://136.243.177.164/AXN/playlist.m3u8
 
 #EXTINF:-1 ,B4U Kadak
@@ -372,9 +370,9 @@ http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/12.m3u8
 http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/kxFshHZ.png" group-title="Bangladeshi",Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi",34.Channel 23
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi",Channel 23
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6KsBwmAHtmufM3Yd7voJ7vq-5H_mgdWLcP4BGSnznamzn55wreYqbvCPD7dySpWqr7d-au-L2kuZEgTHm225Ovr58Eh7X892i5jFhUl-xpIPPsVaY96yHy9s" group-title="Bangladeshi",35.Deshi TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6KsBwmAHtmufM3Yd7voJ7vq-5H_mgdWLcP4BGSnznamzn55wreYqbvCPD7dySpWqr7d-au-L2kuZEgTHm225Ovr58Eh7X892i5jFhUl-xpIPPsVaY96yHy9s" group-title="Bangladeshi",Deshi TV
 http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8C17OHzijjU/hqdefault_live.jpg" group-title="Indian Bangla",Orange Bangla
@@ -442,7 +440,7 @@ http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzb
 https://iptv8.raytahost.com/lite/gbangla_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/nmquv1p8p4uffq2/artv.jpg" group-title="Bangladeshi",AR TV
 https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YJxFSMQ.jpg" group-title="Bangladeshi",Magic Bangla TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YJxFSMQ.jpg" group-title="Kids",Magic Bangla TV
 http://enaniptv.com/magicbanglatv/1080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
