@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TV" tvg-logo="https://i.imgur.com/lyT75II.jpg" group-title="HINDI",ZEE TV 1
+http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TV HD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI",ZEE TV HD 1
+http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
+#EXTINF:-1,Zee TV 2
+https://y5w8j4a9.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,ZEE TV HD 2
+http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
+
 ## BANGLADESHI ##
 #EXTINF:0,BTV
 #EXTGRP:unsorted
@@ -129,7 +138,7 @@ http://30.30.30.30/live/skyfeed1017/index.m3u8
 #EXTGRP:unsorted
 http://103.205.133.50/hls/ten3.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",Sony Aath
-https://rhridoy136.shortcm.li/sonyaath.m3u8
+http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
 #EXTINF:0 ,Sony WAH
 https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",Sony Max HD
