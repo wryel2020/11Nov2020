@@ -305,7 +305,6 @@ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x
 
 
 
-
 #EXTINF:0,& TV
 #EXTGRP:unsorted
 http://103.135.208.14:8082/74/index.m3u8?token=3abea81e9db4ed877161490b0d0050b4c83cff23-f230e4df316a347f7f04fc4b7410ae41-1605984929-1605974129
@@ -392,6 +391,13 @@ http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.sm
 #EXTINF:-1 ,ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC [ENGLISH]" tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Infotainment",TLC [ENGLISH]
+https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC [HINDI]" tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Infotainment",TLC [HINDI]
+https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC HD" tvg-logo="http://i.imgur.com/TInMfsC.png" group-title="Infotainment",TLC HD
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 ,Akaal TV
@@ -533,8 +539,8 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwmzvoVGg5ZoC25muKab8tnWnZKHfTOq984A&usqp=CAU" group-title="Others",Cooking 4U
 https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Desh TV
-http://103.135.208.14:8082/9/index.m3u8?token=59ad98ebaa41957b8443fa9c3c5671a7ea9ecba0-3eb8cdf694b3433b4cbd009ff2cecb82-1605984920-1605974120
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Bangla News",Desh TV
+https://rhridoy136.shortcm.li/deshtv.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8EQUXgPvnJjPH95nBiBkRMi_nk5x4yomVLA&usqp=CAU" group-title="Indian",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="Indian",Bollywood Premier
