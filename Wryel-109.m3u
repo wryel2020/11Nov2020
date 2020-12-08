@@ -1,12 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TV" tvg-logo="https://i.imgur.com/lyT75II.jpg" group-title="HINDI",ZEE TV 1
-http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TV HD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI",ZEE TV HD 1
-http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
-#EXTINF:-1,Zee TV 2
-https://y5w8j4a9.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,ZEE TV HD 2
-http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
+
 
 ## BANGLADESHI ##
 #EXTINF:0,BTV
@@ -97,9 +90,8 @@ http://103.135.208.14:8082/32/index.m3u8?token=79f9843e8cfb04f63b91a2d6c0d515f60
 
 ## ZEE Network ##
 
-#EXTINF:0,Zee TV
-#EXTGRP:unsorted
-http://103.205.133.50/hls/zeetv.m3u8
+#EXTINF:-1,Zee TV 
+https://y5w8j4a9.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
 #EXTINF:0,Zee Salam
 #EXTGRP:unsorted
 http://103.205.133.50/hls/zeesalaam.m3u8
@@ -522,4 +514,5 @@ https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 #EXTINF:0 ,MH One
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
+
 
