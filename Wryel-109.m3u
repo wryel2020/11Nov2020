@@ -36,9 +36,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:0,My TV
 #EXTGRP:unsorted
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-#EXTINF:0,Mohona Tv
-#EXTGRP:unsorted
-http://103.205.133.50/hls/mohonatv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOHONA TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288" group-title="Bangla News",MOHONA TV
+https://rhridoy136.shortcm.li/mohonatv.m3u8
 #EXTINF:0 tvg-logo=""ext"" group-title=""JagoBD"",Maasranga
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/1.m3u8
 #EXTINF:0,Channel 9
@@ -51,8 +50,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Deepto_TV#/media/File:Deepto_TV_logo.png" group-title="Bangladesh",Deepto TV
 https://rhridoy136.shortcm.li/deeptotv.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangladeshi",25.Bangla TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bangla 21" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x91288" group-title="Bangladesh",Bangla 21
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/playlist.m3u8
 #EXTINF:0,Nagorik TV
 #EXTGRP:unsorted
 http://103.135.208.14:8082/59/index.m3u8?token=88262517e930ebbd49705d31ab3731966fc38fe8-fdab9d58f9b4721bf9d244494312e719-1605984917-1605974117
@@ -65,7 +64,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:0,Channel 24
 #EXTGRP:unsorted
-hhttps://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0,JAMUNA TV
 #EXTGRP:unsorted
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
