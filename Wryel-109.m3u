@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF: test
+http://ranapk-june3.in1.bitmana.io/play.php?c=Sony_HD
+
+
 
 ## BANGLADESHI ##
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="JagoBD",BTV World
